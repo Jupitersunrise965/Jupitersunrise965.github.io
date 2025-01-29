@@ -7,17 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in mathematics, statistics and operations research. I got my BS degree in mathematics at Wuhan University, and MS degree at University of Michigan.
+I am a researcher in mathematics, statistics and operations research. I got my BS degree in mathematics at Wuhan University, and MS degree in Statistics at University of Michigan.
 
 My research interests are:
 
 Probability, Stochastic Process and Control
 
-Statistics
+Statistics and Machine Learning
 
-Bandits, Reinforcement learning, online decision making
+Bandits, Reinforcement learning, Online decision making
+
+Operations Research
 
 Research Projects
 ======
 1. Early Stopping in bandits and online inferences
+
+2. Law of Large Numbers for independent random variables
 
