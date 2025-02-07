@@ -23,7 +23,7 @@ Research Projects
 ======
 1. Early Stopping in bandits and online inferences (Zihan Cui, Yichen Zhang)
 
-   Link: [URL](https://arxiv.org/pdf/2502.02793  )  
+   Link: [https://arxiv.org/pdf/2502.02793](https://arxiv.org/pdf/2502.02793)  
   
 3. Law of Large Numbers for independent random variables
 
